@@ -1,4 +1,4 @@
-# Painel de Controle e Gestão de Chamados
+# Painel de Controle e Gestão Hamburgueria
 
 Neste projeto desenvolvemos um painel completo para o cliente, permitindo uma visão sumarizada e detalhada do business.
  
