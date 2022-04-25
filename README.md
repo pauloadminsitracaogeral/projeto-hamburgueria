@@ -1,9 +1,6 @@
 # Painel de Controle e Gestão Hamburgueria
-
 Neste projeto desenvolvemos um painel completo para o cliente, permitindo uma visão sumarizada e detalhada do business.
  
- 
-
 ### FASES DO PROJETO:
 • Levantamento de requisitos;
 
